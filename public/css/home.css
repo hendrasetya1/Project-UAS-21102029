@@ -1,0 +1,15 @@
+.prj{
+    font-size: 20px;
+    margin: 0.2cm;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+} 
+
+.prjisi{
+    font-size: 20px;
+    line-height: 1.6;
+    margin: 0.2cm;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+    text-indent: 40px;
+}
